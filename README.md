@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/41571606/185773744-809c7f22-667d-499c-bcb6-8d9995abd5bc.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F5A6B&width=435&lines=Hi%2C+my+name+is+Ariana;Currently+working+on+some+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F5A6B&width=435&lines=Hi%2C+my+name+is+Ayesha;Currently+working+on+some+projects)](https://git.io/typing-svg)
 
 # Hi, I'm Ayesha 👋
 
