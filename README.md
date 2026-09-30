@@ -3,30 +3,46 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F5A6B&width=435&lines=Hi%2C+my+name+is+Ariana;Currently+working+on+some+projects)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on a new game using [**Java Swing**](https://github.com/Investmentbanking/BreakoutGame) and creating my own [**website**](https://github.com/Investmentbanking/InvestmentBanking.github.io) 
-- 🌱 I’m currently learning about C++, django, networking, MERN Stack, Scala, Artifical Intelligence and AWS
-- 📫 feel free to contact me on discord `Lime#6304` for any questions :)
-- 😄 Pronouns: she/her
+# Hi, I'm Ayesha 👋
 
-# My Hobbies
-- I love to game. From a young age I would play video games with my brother on the PS2 (ahh the memories). I loved to play crash bandicoot and me and my brother would often stay up all night to finish the game just to play it again from the start the next day (lol). I currently like to play fifa, fortnite, tekken and mortal kombat
-- I like to play tennis in the park with friends and family (best in the evening times)
-- This is a pretty academic related one but I like to do leetcode often just for fun, I find it very intellectually stimuating and interesting
+I'm a Computer Science graduate from King's College London with First-Class Honours, interested in software engineering, full-stack development, and building software that solves real problems.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=InvestmentBanking&theme=android-dark)](https://git.io/streak-stats)
+I enjoy working across different areas of development, from Java and object-oriented programming to Python/Django and React/TypeScript.
 
+## 💻 Tech Stack
 
-<!--
-**Investmentbanking/InvestmentBanking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:** Java, Python, JavaScript, TypeScript, SQL, HTML, CSS
 
-Here are some ideas to get you started:
+**Frameworks & Technologies:** React, Django, Spring Boot, JavaFX, Swing, Node.js, Express, MongoDB, REST APIs
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Concepts:** Git, GitHub, OOP, Concurrent Programming, System Design, Data Processing
+
+## 🚀 Featured Projects
+
+### 💬 Messaging Application
+Built a React and TypeScript messaging prototype exploring more transparent approaches to message undo and revocation, with real-time state synchronisation and user-focused interaction design.
+
+### 🌿 Predator–Prey Ecosystem Simulation
+Developed an interactive Java ecosystem simulation modelling seven actor species across rainforest and river environments using object-oriented design and polymorphism.
+
+### 🔎 Scholar++
+Built a Django academic research platform integrating the OpenAlex API, with asynchronous API requests using `asyncio` and `aiohttp`, retry handling, filtering, sorting and pagination.
+
+### 🏠 London Property Viewer
+Developed a JavaFX property application processing 72,300 Airbnb records using OpenCSV, with price/date filtering, geographic visualisation and property analytics.
+
+## 🌱 Currently
+
+I'm currently focused on developing my software engineering skills further and exploring opportunities where I can contribute to real-world engineering projects while continuing to learn from experienced developers.
+
+## 🏆 A Little More About Me
+
+- 🎓 First-Class BSc Computer Science graduate from King's College London
+- 🏆 Amazon Women in Innovation Award winner
+- 💡 Interested in software engineering, full-stack development and user-focused technology
+- 🧠 I enjoy solving coding problems and practising algorithmic problem-solving
+- 🎮 Outside of programming, I enjoy gaming and playing tennis
+
+## 📫 Connect With Me
+
+🌐 [Portfolio Website](https://investmentbanking.github.io/)
